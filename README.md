@@ -28,5 +28,5 @@ Esse sistema permite configurar diferentes fluxos de aprovação (como desligame
 ````bash
 git clone https://github.com/hernanijr/approval-flows
 cd approval-flows
-docker-compose up ```
+docker-compose up
 ````
